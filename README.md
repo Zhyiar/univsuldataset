@@ -23,3 +23,7 @@ Two separate CSV files have been created for each sub-sessions and individual su
 values, attention level, meditation level, blinking strength, and signal quality level.
 
 All folder with I letter releveant to invisble mode.
+
+This dataset has been prepared by:
+Zhyar Rzgar K.Rostam
+Assist. Prof. Dr.Sozan A. Mahmmod
