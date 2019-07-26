@@ -25,5 +25,5 @@ values, attention level, meditation level, blinking strength, and signal quality
 All folder with I letter releveant to invisble mode.
 
 This dataset has been prepared by:
-Zhyar Rzgar K.Rostam
+Zhyar Rzgar K.Rostam and 
 Assist. Prof. Dr.Sozan A. Mahmmod
